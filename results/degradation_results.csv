@@ -1,0 +1,6 @@
+method,rate (%/yr),CI low,CI high
+YoY on sensor-based PR (main),-0.3,-0.38,-0.21
+RdTools YoY (validation),-0.28,-0.37,-0.19
+Linear fit on monthly PR,-0.41,,
+YoY on clear-sky PR (sensor-independent),-0.62,-1.02,0.16
+Pyranometer vs clear-sky model,-0.33,-0.76,0.24

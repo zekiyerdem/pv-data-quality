@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy
+pyarrow
+pvlib>=0.10
+rdtools>=2.1
+matplotlib
+jupyter
